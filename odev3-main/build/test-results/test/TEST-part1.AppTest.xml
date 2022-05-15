@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="part1.AppTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-05-15T18:56:29" hostname="LAPTOP-JKITRRSU" time="0.047">
+  <properties/>
+  <testcase name="testNotFound()" classname="part1.AppTest" time="0.033"/>
+  <testcase name="testEmptyArray()" classname="part1.AppTest" time="0.001"/>
+  <testcase name="testFound()" classname="part1.AppTest" time="0.004"/>
+  <testcase name="testNull()" classname="part1.AppTest" time="0.002"/>
+  <testcase name="appHasAGreeting()" classname="part1.AppTest" time="0.002"/>
+  <system-out><![CDATA[girdilerin toplamÄ± dizide var mÄ±?
+girdilerin toplamÄ± dizide var mÄ±?
+girdilerin toplamÄ± dizide var mÄ±?
+girdilerin toplamÄ± dizide var mÄ±?
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
